@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashing", "Hashing\Hashing.csproj", "{12F2B61D-4540-4F59-893C-82160F31939F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F2B61D-4540-4F59-893C-82160F31939F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F2B61D-4540-4F59-893C-82160F31939F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F2B61D-4540-4F59-893C-82160F31939F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F2B61D-4540-4F59-893C-82160F31939F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB0434D-6038-4CD9-BEE0-BF17B9E04A9B}
+	EndGlobalSection
+EndGlobal
